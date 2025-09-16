@@ -10,28 +10,28 @@ first_name: Danial
 middle_name:
 last_name: Farsi
 
-contact_note: >
+contact_note: 
   Best way to reach me is via email or LinkedIn. I usually respond within 24 hours.
 
-description: > 
+description: >
   PhD student in Computer Architecture at the University of Isfahan. 
   Research interests: AI accelerators, sparse-matrix algorithms (Fullex, Sparch), 
   Processing-In-Memory (PIM), embedded intelligence for autonomous robots, 
   computer vision, signal & eye-movement analysis. 
   Instructor for “Programming IoT Devices” (ESP32-CAM, HTTP/server security).
 
-footer_text: >
+footer_text: 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with 
   <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: >
+keywords: 
   Computer Architecture, AI accelerators, Processing-In-Memory, sparse matrices,
   Fullex, Sparch, embedded AI, autonomous robots, computer vision, IoT, ESP32-CAM,
   reliability, VLSI
 
 lang: en   # set to 'fa' if you want Persian as default
-icon: 🧠
+icon: 
 
 url: https://danialfarsi.github.io
 baseurl:
